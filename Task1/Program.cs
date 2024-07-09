@@ -1,8 +1,4 @@
-﻿using System; 
-
-class Program
-{
-    static void Main()
+void Main()
     {
         
         char[,] charArray2D = {
@@ -28,4 +24,4 @@ class Program
         
         Console.WriteLine("Результирующая строка: " + result);
     }
-}
+Main();
